@@ -18,6 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 🧠 Diabetes Patient Management System Workflow
 
-![Diabetes Workflow](assets/workflow.png)
+![Diabetes Workflow](assets/workflows.png)
+
 
 
